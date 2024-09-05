@@ -1,6 +1,6 @@
 👋 Hey, I'm Indra! I'm a senior front-end engineer specializing in the Full-Stack React Ecosystem.
 
-## About Me
+## 💫 About Me
 
 With over 8 years of experience in software development as individual contributor I've built diverse web and hybrid mobile applications end-to-end. In some positions I've led teams and work with cross-functional organizations. My background is in computer science and advanced design informatics. I love to craft useable products solving problems and spark joy in their use ✨
 
