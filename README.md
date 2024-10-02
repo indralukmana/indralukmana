@@ -18,5 +18,6 @@ With over 8 years of experience in software development as individual contributo
 - X/Twitter: [@indluk](https://x.com/indluk)
 - LinkedIn: [indralukmana](https://www.linkedin.com/in/indralukmana)
 - Website: [indralukmana.com](https://indralukmana.com)
+- Mail: indra[at]indralukmana.com
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions!
