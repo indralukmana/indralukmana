@@ -6,7 +6,7 @@ I'm a senior front-end engineer with a full-stack focus on the React ecosystem.
 
 With nearly 9 years of experience, I've contributed to building web and hybrid mobile applications from start to finish.
 I’ve led engineering teams and collaborated with cross-functional teams to deliver scalable and user-friendly solutions.
-My background in computer science and design informatics helps me create apps that are not only efficient but delightful to use.
+My background in computer science and design informatics helps me create apps that are not only efficient but also delightful to use.
 
 ## 🛠 My Preferred Tech Stack
 
